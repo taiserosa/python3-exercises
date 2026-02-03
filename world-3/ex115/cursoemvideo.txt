@@ -1,0 +1,5 @@
+Jair;55
+Tânia;50
+Júnior;31
+Tiago;25
+Taíse;19
